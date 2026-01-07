@@ -83,4 +83,4 @@ Implied volatility contains forward-looking information about market expectation
 
 ## Scope Note
 
-This project is designed for analytical and portfolio demonstration purposes and does not represent a trading system or investment recommendation.
+This project is intended for analytical demonstration and portfolio use and is not a live trading or investment system.
